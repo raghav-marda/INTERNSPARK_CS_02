@@ -161,7 +161,7 @@ The detailed assessment report will document the testing process, observations, 
 
 Once uploaded, access it here:
 
-**[📄 View Web Application Security Report (PDF)](report/InternSpark_Task2_Web_Application_Security_Report.pdf)**
+**[📄 View Web Application Security Report (PDF)](report/InternSpark_Task2_Web_Application_Security_Assessment_Report.pdf)**
 
 ## 📚 Learning Outcomes
 
